@@ -1,0 +1,17 @@
+body{
+    background-color: #fce3ee;
+}
+.container{
+    width: 300px;
+    margin: 100px auto;
+    padding: 1em;
+    /* font-family: 'ZCOOL QingKe HuangYou', cursive; */
+    font-size: 15px;
+    overflow: hidden;
+    text-align: center;
+    height: 300px;
+    margin-top: 200px;
+}
+p{
+    text-align: center;
+}
