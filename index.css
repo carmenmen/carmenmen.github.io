@@ -1,33 +1,33 @@
 body{
-    background-color: #fce3ee;
+    background-color: #000000;
     cursor: url(https://files.cargocollective.com/c987293/mouse2-verde.png), auto !important;
 }
 .container1 {
     width: 740px;
     margin: 100px auto;
-    padding: 1em;
+    padding: 14em;
     /* font-family: 'ZCOOL QingKe HuangYou', cursive; */
-    font-size: 15px;
     overflow: hidden;
     text-align: center;
     height: 740px;
+
 }
 p{
     font-family: 'ZCOOL QingKe HuangYou', cursive;
     font-size: 900%;
     line-height: 1.2;
-    /* color:  #027220; */
+    color:  #027220;
     /* font-weight: 400; */
 }
 a {
-    color:black;
+    color:white;
     text-decoration: none; /* no underline */
   }
 
-a:hover{
-    cursor:url(https://files.cargocollective.com/c987293/mouse2-verde.png), auto !important ;
+/* a:hover{
+    cursor: url(https://cur.cursors-4u.net/nature/nat-6/nat598.cur), auto !important;
 }
-
+ */
 
 
 /* .container2 { */
