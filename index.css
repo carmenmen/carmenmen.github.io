@@ -1,6 +1,7 @@
 body{
     background-color: #000000;
     cursor: url(https://files.cargocollective.com/c987293/mouse2-verde.png), auto !important;
+    overflow: hidden;
 }
 .container1 {
     width: 740px;
@@ -9,7 +10,7 @@ body{
     /* font-family: 'ZCOOL QingKe HuangYou', cursive; */
     overflow: hidden;
     text-align: center;
-    height: 740px;
+    height: 300px;
 
 }
 p{
